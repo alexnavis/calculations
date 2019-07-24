@@ -14,7 +14,7 @@
   * Run `npm i` in the root level
 
   #### Other Commands:
-  * Run `npm test` (in the adminclient directory) to run tests
+  * Run `npm test` to run tests
   
   ### Uninstalling the Module
 
