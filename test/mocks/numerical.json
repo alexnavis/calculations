@@ -1,0 +1,17 @@
+{
+  "name" : "new_calc",
+  "display_name" : "new calc",
+  "dataintegration_id" : null,
+  "type" : "calculations",
+  "conditions" : [],
+  "inputs" : null,
+  "outputs" : null,
+  "variables" : [ 
+    {
+      "rule_name" : "strategy5b212e7315f0732007a77d8c_new_calc_calculations_0_0_0800857620722",
+      "variable_name" : "calc_number_two",
+      "variable_type" : "Number",
+      "calculation_operation" : "return 2 + 2"
+    }
+  ]
+}
